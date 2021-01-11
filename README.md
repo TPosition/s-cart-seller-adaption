@@ -21,3 +21,5 @@ Develop based on local hosting
 4. Admin side url: http://localhost/s-cart/public/sc_admin/auth/login
  - admin account username/password: admin
  - seller account username/password: aaa/aaaaaa
+ 
+ Documentation and video demo: https://drive.google.com/drive/folders/1iTULlBtgvdGSHoPopJmW6kr6TWQ4esZf?usp=sharing
