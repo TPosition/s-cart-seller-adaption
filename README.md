@@ -1,0 +1,2 @@
+# s-cart-seller-adaption
+ 
